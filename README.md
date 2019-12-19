@@ -1,0 +1,2 @@
+# App description
+This app is almost the same that the one with similar name, but this time is built replacing redux with the context API. Found easier to manage state and passing it through components with this approach.
